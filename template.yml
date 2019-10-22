@@ -25,6 +25,18 @@ Resources:
   #           Stream: !GetAtt DynamoDBTable.StreamArn
   #           BatchSize: 100
   #           StartingPosition: TRIM_HORIZON
+  GetCitiesFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Role: arn:aws:iam::092514897611:role/sam-flutter-demo-role-padrao
+      Handler: getCities/index.handler
+      Runtime: nodejs10.x
+      Events:
+        HelloWorldApi:
+          Type: Api
+          Properties:
+            Path: /cities
+            Method: GET
   DynamoDBTable:
     Type: AWS::DynamoDB::Table
     Properties:

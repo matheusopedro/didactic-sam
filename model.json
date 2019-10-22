@@ -1,0 +1,51 @@
+[{
+    "propertyName": "Adani HighRise",
+    "propertyPrice": "22.5 Cr",
+    "image": "hall_1.jpg",
+    "propertyLocation": "Mumbai "
+}, {
+    "propertyName": "Vishwas CityRise",
+    "propertyPrice": "17.5 Cr",
+    "image": "hall_1.jpg",
+    "propertyLocation": "Pune "
+}, {
+    "propertyName": "Velone City",
+    "propertyPrice": "11.5 Cr",
+    "image": "feature_1.jpg",
+    "propertyLocation": "Mumbai "
+}, {
+    "propertyName": "Sandesh Heights",
+    "propertyPrice": "11.5 Cr",
+    "image": "feature_2.jpg",
+    "propertyLocation": "Baroda "
+}, {
+    "propertyName": "N.G Tower",
+    "propertyPrice": "7.5 Cr",
+    "image": "hall_2.jpeg",
+    "propertyLocation": "Gandhinagar "
+}, {
+    "propertyName": "PabelBay",
+    "propertyPrice": "33.1 Cr",
+    "image": "hall_1.jpg",
+    "propertyLocation": "Ahmedabad "
+}, {
+    "propertyName": "Sapath Hexa Tower",
+    "propertyPrice": "15.6 Cr",
+    "image": "feature_3.jpg",
+    "propertyLocation": "Ahmedabad"
+}, {
+    "propertyName": "Omkar Lotus",
+    "propertyPrice": "26.5 Cr",
+    "image": "feature_1.jpg",
+    "propertyLocation": "São Paulo "
+}, {
+    "propertyName": "Gift City",
+    "propertyPrice": "13.5 Cr",
+    "image": "hall_2.jpeg",
+    "propertyLocation": "Ahmedabad "
+}, {
+    "propertyName": "Sangath Heights",
+    "propertyPrice": "19.0 Cr",
+    "image": "feature_3.jpg",
+    "propertyLocation": "Pune "
+}]
